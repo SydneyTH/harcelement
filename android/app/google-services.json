@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "256527843389",
+    "firebase_url": "https://harcelementv5.firebaseio.com",
+    "project_id": "harcelementv5",
+    "storage_bucket": "harcelementv5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256527843389:android:a7b314a932a19fe83dea54",
+        "android_client_info": {
+          "package_name": "com.harcelementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256527843389-qhtcdv9sj55v7g6c2lqeknepg130e1s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTbMKQ788Ke9Wn1-DqsEmCDAcccw0407Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256527843389-qhtcdv9sj55v7g6c2lqeknepg130e1s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
